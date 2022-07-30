@@ -5,7 +5,7 @@
 **_CF - Codeforces_**
 <br>
 **_LC - Leetcode_**
-
+<hr>
 ### _To solve:_
 #### Two pointers
 <ul>
