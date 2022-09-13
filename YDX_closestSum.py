@@ -4,7 +4,6 @@
 def closestSum(nums, target) -> list:
     r = len(nums) - 1
     l = 0
-    s = 0
     prev_sum = 0
     res = [0, r]
 
