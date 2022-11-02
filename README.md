@@ -9,11 +9,3 @@
 **_YDX - Yandex_**
 
 <hr>
-
-### _To solve:_
-#### Two pointers
-<ul>
-  <li>Vasya and Robot - https://codeforces.com/group/pgkaqF4igo/contest/256854/problem/D?locale=en</li>
-</ul>
-
-
